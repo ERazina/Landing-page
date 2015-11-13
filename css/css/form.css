@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+.block{
+		width:350px;
+		padding:10px;
+		margin: 0 auto;	
+}
+
+label{
+	text-align: left;
+	color: #909090;
+	font-style: normal;
+	font-size: x-small;
+}
+input{
+	border: 1px solid #B7B5B5;
+	border-radius: 1px;
+	padding: 10px;
+	width: 300px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.form{
+
+	font-size: x-small;
+	
+}
+.submit{
+	border: 1px solid #29EF2D;
+	border-radius: 1px;
+	padding: 10px;
+	width: 200px;
+	margin: 0 auto;
+	margin-top: 10px;
+	text-align: center;
+	background: #4EE02A;
+	color: #FFFFFF;
+	font-size: large;
+	display:block;
+}
+
